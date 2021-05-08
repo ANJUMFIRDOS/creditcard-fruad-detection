@@ -13,3 +13,7 @@ After applying Resample:
 
 ![Screenshot (20)](https://user-images.githubusercontent.com/74133175/117537112-92005400-b01c-11eb-89b9-85040054c649.png)
 
+After applying->RemoveDuplicates
+
+![Screenshot (21)](https://user-images.githubusercontent.com/74133175/117537191-13f07d00-b01d-11eb-95ab-efb1bb8e7764.png)
+
