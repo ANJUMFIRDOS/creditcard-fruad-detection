@@ -17,3 +17,7 @@ After applying->RemoveDuplicates
 
 ![Screenshot (21)](https://user-images.githubusercontent.com/74133175/117537191-13f07d00-b01d-11eb-95ab-efb1bb8e7764.png)
 
+Data Visualization:
+image-1:
+![Screenshot (26)](https://user-images.githubusercontent.com/74133175/117537259-5ca83600-b01d-11eb-88b1-c1f7020ffc8d.png)
+
